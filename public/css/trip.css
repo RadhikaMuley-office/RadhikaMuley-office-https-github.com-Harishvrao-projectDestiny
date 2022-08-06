@@ -1,0 +1,84 @@
+/* common section section here */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root{
+    --bg-color:#fff;
+    --font-color:#333;
+    --nav-background:#316879;
+    --color-1:#f47a60;
+    --color-2:#7fe7dc;
+}
+body{
+    overflow-x: hidden;
+}
+/* common section ends here */
+
+
+
+/* home page section starts here */
+
+/* home page section endss here */
+
+
+
+
+
+/* login page section starts here */
+
+/* login page section ends here */
+
+
+
+
+
+/* offers page section starts here */
+
+/* offers page section ends here */
+
+
+
+/* bookig page section starts here */
+
+/* booking page section ends here */
+
+
+
+/* bus UI page section starts here */
+
+/* bus UI page section ends here */
+
+
+
+
+/* Seat Matrix page section starts here */
+
+/* Seat Matrix page section ends here */
+
+
+
+
+/* payment page section starts here */
+
+/* payment page section ends here */
+
+
+
+/* conformation page starts here */
+
+/* conformation page section ends here */
+
+
+
+/* status page starts here */
+
+/* starts page ends here */
+
+
+
+
+/* admin page starts here */
+
+/* admin page ends here */
